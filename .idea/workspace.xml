@@ -61,20 +61,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.ua.robot.lesson3.Main">
-    <configuration name="Hw3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ua.robot.lesson3.Hw3" />
-      <module name="FirstProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ua.robot.lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstProjects" />
@@ -95,12 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ua.robot.lesson3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ua.robot.lesson3.Main" />
-      <module name="FirstProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ua.robot.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +103,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.ua.robot.lesson3.Main" />
-        <item itemvalue="Application.Hw3" />
         <item itemvalue="Application.com.ua.robot.Main" />
         <item itemvalue="Application.lesson2.Main" />
       </list>
