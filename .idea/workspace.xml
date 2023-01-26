@@ -61,7 +61,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.ua.robot.lesson4.Main">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstProjects" />
@@ -82,12 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ua.robot.lesson4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ua.robot.lesson4.Main" />
-      <module name="FirstProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ua.robot.lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,7 +103,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.ua.robot.lesson4.Main" />
         <item itemvalue="Application.com.ua.robot.Main" />
         <item itemvalue="Application.lesson2.Main" />
       </list>
@@ -160,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674029952680</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HomeWork#2_Attempt_3">
+      <created>1674032008656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674032008656</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HomeWork#2_Attempt_3">
+      <created>1674032159524</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674032159524</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +183,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="HomeWork#2_Attempt_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork#2_Attempt_2" />
+    <MESSAGE value="HomeWork#2_Attempt_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork#2_Attempt_3" />
   </component>
 </project>
